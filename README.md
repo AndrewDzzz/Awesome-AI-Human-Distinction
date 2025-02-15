@@ -9,9 +9,9 @@ In this list, we will highlight areas where AI remains weaker than humans in dai
 
 - [Awesome AI-Human-Distinction](#Awesome-AI-Human-Distinction)
     - [Perception of Humor](#Humor)
-    - [Perception of Illusionary Images](#Perception of Illusionary Images)
-    - [Perception of Human Emotion](#Perception of Human Emotion)
-    - [Causal Reasoning](#Causal Reasoning)
+    - [Perception of Illusionary Images](#Perception-of-Illusionary-Images)
+    - [Perception of Human Emotion](#Perception-of-Human-Emotion)
+    - [Causal Reasoning](#Causal-Reasoning)
  
 ## Perception of Humor
 -------------------------------------------------------------------------------
@@ -19,23 +19,24 @@ In this list, we will highlight areas where AI remains weaker than humans in dai
 Learning towards a Humor LLM](https://aclanthology.org/2024.findings-acl.51.pdf)
 * [DuanzAI: Slang-Enhanced LLM with Prompt for Humor Understanding
 ](https://arxiv.org/abs/2405.15818)
-* [Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.html)
+* [Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://arxiv.org/abs/2312.02439))
 -------------------------------------------------------------------------------
+
 ## Perception of Illusionary Images
 -------------------------------------------------------------------------------
 * [IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models
 ](https://arxiv.org/abs/2501.00848)
 * [IllusionCAPTCHA: A CAPTCHA based on Visual Illusion
 ](https://arxiv.org/abs/2502.05461)
-* [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models
-](HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language
-Hallucination and Visual Illusion in Large Vision-Language Models)
+* [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models](https://arxiv.org/abs/2310.14566))
 -------------------------------------------------------------------------------
+
 ## Perception of Human Emotion
 -------------------------------------------------------------------------------
 * [EmoLLM: Multimodal Emotional Understanding Meets Large Language Models](https://arxiv.org/pdf/2406.16442)
 * [Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction
 ](https://arxiv.org/abs/2409.15551)
+
 -------------------------------------------------------------------------------
 ## Causal Reasoning
 * [Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?
