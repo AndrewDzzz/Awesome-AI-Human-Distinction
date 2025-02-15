@@ -1,5 +1,5 @@
 # Awesome-AI-Human-Distinction
-In this list, we will highlight areas where AI remains weaker than humans in daily life. These limitations impact how AI interacts with humans in routine, everyday situations. However, with advancements in AI technology, these challenges may eventually be overcome, and such limitations could become a thing of the past.
+In this list, we will highlight areas where AI remains weaker than humans in daily life. These limitations influence how AI interacts with humans in routine, everyday situations. We also welcome your participation in helping us gather more examples together.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
