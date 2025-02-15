@@ -1,5 +1,6 @@
 # Awesome-AI-Human-Distinction
-In this list, we will highlight areas where AI is still weaker than humans (e.g., large models currently struggle to understand context or nuances in zero-shot scenarios, where no prior examples or training data are provided). However, in the future, these limitations may become a thing of the past.
+In this list, we will highlight areas where AI remains weaker than humans in daily life. These limitations impact how AI interacts with humans in routine, everyday situations. However, with advancements in AI technology, these challenges may eventually be overcome, and such limitations could become a thing of the past.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![GitHub stars](https://img.shields.io/github/stars/AndrewDzzz/Awesome-AI-Human-Distinction.svg?style=flat&label=Star)](https://github.com/AndrewDzzz/Awesome-AI-Human-Distinction/stargazers)
@@ -7,6 +8,37 @@ In this list, we will highlight areas where AI is still weaker than humans (e.g.
 [![GitHub watchers](https://img.shields.io/github/watchers/AndrewDzzz/Awesome-AI-Human-Distinction.svg?style=flat&label=Watch)](https://github.com/AndrewDzzz/Awesome-AI-Human-Distinction/watchers)
 
 - [Awesome AI-Human-Distinction](#Awesome-AI-Human-Distinction)
-    - [Sense of Humor](#Sense of Humor)
+    - [Perception of Humor](#Humor)
     - [Perception of Illusionary Images](#Perception of Illusionary Images)
-    - [Perception of Slang](#Perception of Slang)
+    - [Perception of Human Emotion](#Perception of Human Emotion)
+    - [Causal Reasoning](#Causal Reasoning)
+ 
+## Perception of Humor
+-------------------------------------------------------------------------------
+* [Are U a Joke Master? Pun Generation via Multi-Stage Curriculum
+Learning towards a Humor LLM](https://aclanthology.org/2024.findings-acl.51.pdf)
+* [DuanzAI: Slang-Enhanced LLM with Prompt for Humor Understanding
+](https://arxiv.org/abs/2405.15818)
+* [Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.html)
+-------------------------------------------------------------------------------
+## Perception of Illusionary Images
+-------------------------------------------------------------------------------
+* [IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models
+](https://arxiv.org/abs/2501.00848)
+* [IllusionCAPTCHA: A CAPTCHA based on Visual Illusion
+](https://arxiv.org/abs/2502.05461)
+* [HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models
+](HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language
+Hallucination and Visual Illusion in Large Vision-Language Models)
+-------------------------------------------------------------------------------
+## Perception of Human Emotion
+-------------------------------------------------------------------------------
+* [EmoLLM: Multimodal Emotional Understanding Meets Large Language Models](https://arxiv.org/pdf/2406.16442)
+* [Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction
+](https://arxiv.org/abs/2409.15551)
+-------------------------------------------------------------------------------
+## Causal Reasoning
+* [Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?
+](https://proceedings.neurips.cc/paper_files/paper/2024/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html)
+* [Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data](https://arxiv.org/abs/2402.17644)
+
