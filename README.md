@@ -12,6 +12,7 @@ In this list, we will highlight areas where AI remains weaker than humans in dai
     - [Perception of Illusionary Images](#Perception-of-Illusionary-Images)
     - [Perception of Human Emotion](#Perception-of-Human-Emotion)
     - [Causal Reasoning](#Causal-Reasoning)
+    - [Analysis of Text](#Analysis-of-Text)
  
 ## Perception of Humor
 -------------------------------------------------------------------------------
@@ -42,4 +43,7 @@ Learning towards a Humor LLM](https://aclanthology.org/2024.findings-acl.51.pdf)
 * [Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?
 ](https://proceedings.neurips.cc/paper_files/paper/2024/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html)
 * [Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data](https://arxiv.org/abs/2402.17644)
+
+## Analysis of Text
+* [When the LM misunderstood the human chuckled: Analyzing garden path effects in humans and language models](https://arxiv.org/pdf/2502.09307)
 
